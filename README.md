@@ -1,2 +1,2 @@
 # zoroTest
-Zoro job application selenium activity
+Zoro selenium activity
